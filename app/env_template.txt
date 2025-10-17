@@ -1,0 +1,11 @@
+# Telegram Bot Configuration
+BOT_TOKEN=your_telegram_bot_token_here
+CHAT_IDS=chat_id1,chat_id2,chat_id3
+ADMIN_IDS=admin_user_id1,admin_user_id2
+
+# Monitoring Configuration
+POLL_INTERVAL=60
+
+# Google Sheets Configuration
+GS_CRED=bmwparser111-4e64ca22a559.json
+GSHEET_NAME=bmw_parser_data
